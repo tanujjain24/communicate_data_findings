@@ -12,8 +12,7 @@ Different usage patterns between the two types of riders were seen from the expl
 
 ## Webliography
 - [Bay Wheels](https://en.wikipedia.org/wiki/Bay_Wheels)
-- [Udacity Dataset Options](https://docs.google.com/document/d/e/2PACX-1vQmkX4iOT6Rcrin42vslquX2_wQCjIa_hbwD0xmxrERPSOJYDtpNc_3wwK_p9_KpOsfA6QVyEHdxxq7/pub?embedded=True)
-- [Data Descrition](https://www.lyft.com/bikes/bay-wheels/system-data)
+- [Data Description](https://www.lyft.com/bikes/bay-wheels/system-data)
 - [Dataset Source](https://s3.amazonaws.com/baywheels-data/index.html)
 - [pandas](https://pandas.pydata.org/docs/)
 - [Seaborn](https://seaborn.pydata.org/)
